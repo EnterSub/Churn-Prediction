@@ -197,4 +197,4 @@ namespace Visualization
             diagram.SaveImage(image, System.Drawing.Imaging.ImageFormat.Png);
         }
     }
-    }
+}
