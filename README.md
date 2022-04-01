@@ -1,5 +1,22 @@
 # Project_ML
 
+Developing programming system for churn prediction and visualization output metrics results
+
+# Demo
+
+Bachelor version
+![Visualization_bachelor](https://user-images.githubusercontent.com/44023937/161269998-80d9d1d2-1bf4-49dc-b880-33de3dfb9ece.gif)
+
+Basic version
+![Visualization_basic_version_bachelor](https://user-images.githubusercontent.com/44023937/161270133-8e8e472f-6ceb-4287-a0b9-794177fbab31.gif)
+
+# Output
+
+![Output_bachelor](https://user-images.githubusercontent.com/44023937/161270621-e6aceaeb-752d-4752-9cdf-7e15e67881db.png)
+
+![Output_basic_version_bachelor](https://user-images.githubusercontent.com/44023937/161270633-76856a3a-6736-4a25-8b28-ec495f5490c5.png)
+
+
 ML_Project.pdf - project description.
 
 Presentation_project.pdf - project presentation.
