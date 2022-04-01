@@ -24,7 +24,7 @@ namespace Visualization
                     //Dynamic form reshaping for user convenience
                     file.Text = openDialog.FileName;
                     filename.Text += Path.GetFileNameWithoutExtension(openDialog.FileName);
-                    file_log.Text = filename.Text; //?
+                    file_log.Text = filename.Text;
                     open_file.Enabled = false;
                     true_predict.Visible = true;
                     false_predict.Visible = true;
