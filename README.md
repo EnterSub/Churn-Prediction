@@ -1,4 +1,4 @@
-# Project_ML
+# Churn Prediction project
 
 Developing programming system for churn prediction and visualization output metrics results
 
