@@ -1,6 +1,6 @@
 # Churn Prediction project
 
-Developing programming system for churn prediction and visualization output metrics results
+Development of programming system for churn prediction and visualization output metrics results.
 
 # Demo
 
