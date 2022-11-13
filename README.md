@@ -5,9 +5,11 @@ Development of programming system for churn prediction and visualization output 
 # Demo
 
 Bachelor version
+
 ![Visualization_bachelor](https://user-images.githubusercontent.com/44023937/161269998-80d9d1d2-1bf4-49dc-b880-33de3dfb9ece.gif)
 
 Basic version
+
 ![Visualization_basic_version_bachelor](https://user-images.githubusercontent.com/44023937/161270133-8e8e472f-6ceb-4287-a0b9-794177fbab31.gif)
 
 # Output
